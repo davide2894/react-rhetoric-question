@@ -1,0 +1,21 @@
+@use 'sass:math';
+
+
+// COLORS
+$salmon: #F55A5A;
+$mine-shaft: #262626;
+$alto: #D9D9D9;
+$pastel-pink: #FFD1DC; 
+$white: #FFFFFF;
+
+// FONT
+$font-weight-bold: 700;
+
+//* Function: rem()
+//* DESCRIPTION: px -> rem conversion
+@function rem($px, $base: 16px) {
+  @return math.div($px, $base) * 1rem;
+}
+
+
+

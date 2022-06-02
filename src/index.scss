@@ -1,0 +1,14 @@
+@import './reset.scss';
+@import './shared';
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: $pastel-pink;
+  color: $alto;
+  padding: 20px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
