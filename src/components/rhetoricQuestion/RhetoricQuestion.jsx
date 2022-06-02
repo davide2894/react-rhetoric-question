@@ -1,14 +1,14 @@
 import './RhetoricQuestion.scss';
 
-export default function RhetoricQuestion(props) {
+export default function RhetoricQuestion() {
     
     /**
-     * Challenge: Replace the if/else below with a ternary
-     * to determine the text that should display on the page
+     * Challenge: 
+     * - Initialize state for `isGoingOut` as a boolean
+     * - Make it so clicking the div.state--value flips that
+     *   boolean value (true -> false, false -> true)
+     * - Display "Yes" if `isGoingOut` is `true`, "No" otherwise
      */
-    const isGoingOut = true;
-
-    //let answer = isGoingOut ? "Yes" : "No";
     
     return(
         <div className="rhetoricQuestion">
