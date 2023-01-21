@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-rhetoric-questions/static/css/main.5411eee6.css",
-    "main.js": "/react-rhetoric-questions/static/js/main.c5127b9b.js",
-    "static/js/787.6354e8aa.chunk.js": "/react-rhetoric-questions/static/js/787.6354e8aa.chunk.js",
-    "index.html": "/react-rhetoric-questions/index.html",
-    "main.5411eee6.css.map": "/react-rhetoric-questions/static/css/main.5411eee6.css.map",
-    "main.c5127b9b.js.map": "/react-rhetoric-questions/static/js/main.c5127b9b.js.map",
-    "787.6354e8aa.chunk.js.map": "/react-rhetoric-questions/static/js/787.6354e8aa.chunk.js.map"
+    "main.css": "/react-rhetoric-question/static/css/main.5411eee6.css",
+    "main.js": "/react-rhetoric-question/static/js/main.d878639d.js",
+    "static/js/787.1fc35f11.chunk.js": "/react-rhetoric-question/static/js/787.1fc35f11.chunk.js",
+    "index.html": "/react-rhetoric-question/index.html",
+    "main.5411eee6.css.map": "/react-rhetoric-question/static/css/main.5411eee6.css.map",
+    "main.d878639d.js.map": "/react-rhetoric-question/static/js/main.d878639d.js.map",
+    "787.1fc35f11.chunk.js.map": "/react-rhetoric-question/static/js/787.1fc35f11.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5411eee6.css",
-    "static/js/main.c5127b9b.js"
+    "static/js/main.d878639d.js"
   ]
 }
