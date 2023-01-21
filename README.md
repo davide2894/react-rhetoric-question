@@ -5,7 +5,7 @@ A simple web page showing a button to toggle an answer to a rhetoric question. T
 
 ## How to use
 ### Online
-Check out this web page online at https://davide2894.github.io/react-rhetoric-questions/
+Check out this web page online at https://davide2894.github.io/react-rhetoric-question/
 ### Local setup
 Execute in development mode (with file watch): 'npm start'.
 
