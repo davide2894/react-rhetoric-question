@@ -1,5 +1,6 @@
 {
   "name": "react-rhetoric-questions",
+  "homepage": "https://davide2894.github.io/react-rhetoric-questions/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -36,6 +37,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "sass": "^1.52.1"
   }
 }
